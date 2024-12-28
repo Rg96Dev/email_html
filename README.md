@@ -11,8 +11,8 @@ Os e-mails em HTML são semelhantes às páginas web simples, mas com algumas li
 ## :sparkles: Dicas Importantes
 
 
-##Compatibilidade: 
-Use tabelas (<table>) para layout, pois são amplamente suportadas pelos clientes de e-mail. O uso de CSS inline é altamente recomendado para garantir que o estilo seja aplicado corretamente.
+## Compatibilidade: 
+Use tabelas para layout, pois são amplamente suportadas pelos clientes de e-mail. O uso de CSS inline é altamente recomendado para garantir que o estilo seja aplicado corretamente.
 
 ##Imagens: 
 Para adicionar imagens, use URLs absolutas para garantir que sejam carregadas corretamente.
